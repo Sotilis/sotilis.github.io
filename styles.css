@@ -1,0 +1,65 @@
+
+
+
+
+body {
+    background-image: url("assets/background.png");
+    background-repeat: repeat;
+
+    
+  }
+
+.minden{
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+    color: #ff0099;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h4{
+    padding-left: 50%;
+    padding-top: 20px;
+}
+
+
+.header {
+    display: inline-block;
+    background: #333333;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+    
+  }
+
+  .header h5{
+      float: right;
+      padding-right: 25px;
+      color: #ff0099;
+  }
+  
+  .header img{
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 100px;
+
+  }
+
+  .back2black{
+      color: black;
+      font-size: 40px;
+      padding-left: 40%;
+  }
